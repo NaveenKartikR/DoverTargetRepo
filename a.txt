@@ -1,2 +1,2 @@
-This is a.txt file 1st line
+This is a.txt file 1st line, editing this line remote
 Another line in this file, editing this line in local
